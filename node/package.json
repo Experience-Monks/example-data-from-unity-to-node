@@ -1,0 +1,14 @@
+{
+  "name": "data-from-unity-to-node",
+  "version": "1.0.0",
+  "description": "This is a small example to send post data from Unity To Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikko Haapoja <me@mikkoh.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
